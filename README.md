@@ -1,7 +1,7 @@
 # Boot Camp MERN STACK
 
+![Actyv](https://media.licdn.com/dms/image/C4D0BAQEnLoIdxNnPYg/company-logo_400_400/0?e=1576713600&v=beta&t=aVHQSCAUC8W4A6HmJImd_eIWq-Dux4uAcY5hUFLDC-g)
 
-![Mern Stack](https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg)
 
 >**ABOUT MERN STACK**
 
