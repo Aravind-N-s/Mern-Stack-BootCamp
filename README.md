@@ -17,7 +17,7 @@
 ### Installation
 
 Bootcamp requires [Node.js](https://nodejs.org/) v12.6.0 and [Npm](https://www.npmjs.com) v6.11.3 to run.
-Clone the github repository:
+> Clone the github repository:
 ```sh
 $ git clone https://github.com/saikumar-chilukuri/Mern-Stack-BootCamp.git
 $ cd Mern-Stack-BootCamp
