@@ -82,6 +82,9 @@ Install the VSCode plugins which simplify the development of the applications.
 | Node Weekly | [subscribe/node ](https://nodeweekly.com/) |
 | Mobile Dev Weekly | [subscribe/dev](https://mobiledevweekly.com/) |
 
-# License
-MIT
+## License
 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/saikumar-chilukuri/Mern-Stack-Bootcamp/blob/master/LICENSE)**
+- Copyright 2018 © <a href="https://github.com/mittalHimanshu" target="_blank">Himanshu Mittal</a>.
