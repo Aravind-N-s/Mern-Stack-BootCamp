@@ -1,7 +1,6 @@
-# Boot Camp MERN STACK
+# Boot Camp
 
-![Actyv](https://media.licdn.com/dms/image/C4D0BAQEnLoIdxNnPYg/company-logo_400_400/0?e=1576713600&v=beta&t=aVHQSCAUC8W4A6HmJImd_eIWq-Dux4uAcY5hUFLDC-g)
-
+![Autolytics Technologies Pvt Limited](https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.jpg)
 
 >**ABOUT MERN STACK**
 
@@ -40,6 +39,7 @@ Select the example directory to walk through.
 ```sh
 $ cd examples
 ```
+### Development
 Select the example and install the dependencies:
 ```sh
 $ cd example-name
@@ -52,6 +52,21 @@ $ npm run start
 (nodemon)
 $ npm run server
 ```
+For running the unit tests.
+```sh
+$ npm run test
+```
+### Deployment 
+Verify the deployment by navigating to your server **PORT NUMBER** in your preferred browser.
+Running through Localhost
+```sh
+http://localhost:PORT_NUMBER
+```
+Running through server address
+```sh
+http://127.0.0.1:PORT_NUMBER
+```
+
 ### Plugins
 
 Install the VSCode plugins which simplify the development of the applications.
@@ -78,30 +93,3 @@ Install the VSCode plugins which simplify the development of the applications.
 | Mobile Dev Weekly | [subscribe/dev](https://mobiledevweekly.com/) |
 
 
-### Development
-Select the example and install the dependencies:
-```sh
-$ cd example-name
-$ npm install 
-```
-
-For running the application.
-```sh
-$ npm run start
-(nodemon)
-$ npm run server
-```
-For running the unit tests.
-```sh
-$ npm run test
-```
- ### Deployment 
-Verify the deployment by navigating to your server **PORT NUMBER** in your preferred browser.
-Running through Localhost
-```sh
-localhost:PORT_NUMBER
-```
-Running through server address
-```sh
-127.0.0.1:PORT_NUMBER
-```
