@@ -1,9 +1,8 @@
 # Actyv Boot-Camp
-![Autolytics Technologies Pvt Limited](https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.jpg)
 
 <p align="center">
     <img src="https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.jpg" alt="Autolytics Technologies Pvt Limited"
-        height="130">
+        height="1300">
 </p>
 
 # Technologies
