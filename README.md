@@ -1,7 +1,7 @@
 # Actyv Boot-Camp
 
 <p align="center">
-    <img src="https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.jpg" alt="Autolytics Technologies Pvt Limited"
+    <img src="https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.png" alt="Autolytics Technologies Pvt Limited"
         height="450">
 </p>
 
