@@ -83,6 +83,6 @@ Install the VSCode plugins which simplify the development of the applications.
 | Mobile Dev Weekly | [subscribe/dev](https://mobiledevweekly.com/) |
 
 # Licence
-----
+---
 MIT
 
