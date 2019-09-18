@@ -1,6 +1,11 @@
 # Actyv Boot-Camp
 ![Autolytics Technologies Pvt Limited](https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.jpg)
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/badges/shields/master/frontend/images/logo.svg?sanitize=true"
+        height="130">
+</p>
+
 # Technologies
 **ABOUT MERN STACK**
 **Mern (MongoDB, Express, React JS/Redux,Node Js)**
