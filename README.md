@@ -1,35 +1,22 @@
-# Boot Camp
-
+# Actyv Boot-Camp
 ![Autolytics Technologies Pvt Limited](https://actyv-assets.s3.ap-south-1.amazonaws.com/Actyv.jpg)
 
->**ABOUT MERN STACK**
-
+# Technologies
+**ABOUT MERN STACK**
 **Mern (MongoDB, Express, React JS/Redux,Node Js)**
  - **MongoDB** is a cross-platform document-oriented database program.It uses JSON-like documents with schema. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL). 
  - **Express Js** is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.
  - **React Js** (also known as React.js or React JS) is a JavaScript library for building user interfaces.React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded. 
  - **Node Js** is an open-source, cross-platform, JavaScript run-time environment that executes JavaScript code outside of a browser. 
-
-
+* **Mongoose** - Mongoose is a cross-platform embedded web server and networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
+* **Socket io** -Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers.
+* **Next Js** - Production grade React applications that scale. The world's leading companies use Next.js to build server-rendered applications, static websites, and more.
+* **Redux** - Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.
 > The overall goal is to develop the full stack application using the JavaScript technologies.
-
-
-### Tech
-Mern Stack uses a number of open source projects to work properly:
-
-* [MongoDB](https://www.mongodb.com) - Document-based, distributed database built for modern application developers.
-* [Express](http://expressjs.com) - Fast node.js network app framework.
-* [React](https://reactjs.org) -A JavaScript library for building user interfaces.
-* [Node.js](http://nodejs.org) - evented I/O for the backend
-* [Mongoose](https://mongoosejs.com) - Elegant mongodb object modeling for node.js
-* [Socket.io](https://socket.io) -Featuring the fastest and most reliable real-time engine.
-* [Next](https://nextjs.org) - The framework for light-weight applications.
-* [Redux](https://redux.js.org) - A predictable state container for JavaScript apps.
 
 ### Installation
 
 Bootcamp requires [Node.js](https://nodejs.org/) v12.6.0 and [Npm](https://www.npmjs.com) v6.11.3 to run.
-
 Clone the github repository:
 ```sh
 $ git clone https://github.com/saikumar-chilukuri/Mern-Stack-BootCamp.git
@@ -45,7 +32,6 @@ Select the example and install the dependencies:
 $ cd example-name
 $ npm install 
 ```
-
 For running the application.
 ```sh
 $ npm run start
