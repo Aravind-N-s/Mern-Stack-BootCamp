@@ -15,7 +15,7 @@
 # Technologies
 **ABOUT MERN STACK**
 **(MongoDB, Express, React JS/Redux,Node Js)**
- - **MongoDB** v4.0.12 is a cross-platform document-oriented database program.It uses JSON-like documents with schema. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL). 
+ - **MongoDB**(v4.0.12) is a cross-platform document-oriented database program.It uses JSON-like documents with schema. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL). 
  - **Express Js** is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.
  - **React Js** (also known as React.js or React JS) is a JavaScript library for building user interfaces.React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded. 
  - **Node Js** is an open-source, cross-platform, JavaScript run-time environment that executes JavaScript code outside of a browser. 
@@ -63,6 +63,12 @@ Running through server address
 ```sh
 http://127.0.0.1:PORT_NUMBER
 ```
+
+### Useful Links
+- **Node JS best practices**:https://github.com/goldbergyoni/nodebestpractices
+- **Node JS Testing**:https://github.com/goldbergyoni/javascript-testing-best-practices
+- **Redux**:https://github.com/reduxjs/redux
+- **Mongoose**: 
 
 ### Plugins
 
