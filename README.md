@@ -7,7 +7,7 @@
 
 # Description
 > A coding bootcamp is a technical training program that teaches the programming skills that employers look for. Coding bootcamps enable students with little coding proficiency to focus on the most important aspects of coding and immediately apply their new coding skills to solve real-world problems.
-> Coding bootcamps last anywhere from 6 weeks to nearly two years, but with programs typically spanning a range from 12-40 weeks.Given the condensed time frame of training, it is critical that these education programs are designed around two core pillars: speed and high-impact learning.
+> Coding bootcamps isolate the most relevant skills from a 4 year degree and infuse it with relevant industry skills to bridge the gap between the theoretical world of academia and the real world that meets the current needs of the industry.
 
 
 
@@ -89,9 +89,6 @@ Install the VSCode plugins which simplify the development of the applications.
 | Node Weekly | [subscribe/node ](https://nodeweekly.com/) |
 | Mobile Dev Weekly | [subscribe/dev](https://mobiledevweekly.com/) |
 
-
-## References
-- Description: http://thefirehoseproject.com/developer-guide/1
 
 ## License
 
