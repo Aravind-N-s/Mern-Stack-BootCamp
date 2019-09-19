@@ -9,14 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saikumar-chilukuri/Socket.io-ChatApp.git"
+    "url": "https://github.com/saikumar-chilukuri/Socket.io-ChatApp.git"
   },
   "author": "Sai kumar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/saikumar-chilukuri/Socket.io-ChatApp/issues"
-  },
-  "homepage": "https://github.com/saikumar-chilukuri/Socket.io-ChatApp",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.5.7",
     "express": "^4.16.2",
