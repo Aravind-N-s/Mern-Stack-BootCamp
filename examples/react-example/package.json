@@ -13,14 +13,6 @@
     "setup": "npm install && npm run validate",
     "validate": "npm-run-all lint test build"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/saikumar-chilukuri/react-example"
-  },
-  "bugs": {
-    "url": "https://github.com/saikumar-chilukuri/react-example/issues"
-  },
-  "homepage": "https://github.com/saikumar-chilukuri/react-example",
   "author": "Sai kumar",
   "license": "MIT",
   "dependencies": {
