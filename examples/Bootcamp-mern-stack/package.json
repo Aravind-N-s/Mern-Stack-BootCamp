@@ -9,7 +9,7 @@
     "server": "nodemon server.js"
   },
   "author": "Sai kumar Chilukuri",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "bcryptjs": "2.4.3",
     "body-parser": "1.19.0",
