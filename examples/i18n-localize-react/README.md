@@ -34,9 +34,5 @@ Running through server address
 http://127.0.0.1:PORT_NUMBER
 ```
 
-#### Web references
-
-https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088
-
 
 
