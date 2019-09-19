@@ -15,12 +15,9 @@ The MERN stack is a JavaScript stack that’s designed to make the development p
  - **React Js** (also known as React.js or React JS) is a JavaScript library for building user interfaces.React can be used as a base in the development of single-page or mobile applications, as it is optimal for fetching rapidly changing data that needs to be recorded. 
  - **Node Js** is an open-source, cross-platform, JavaScript run-time environment that executes JavaScript code outside of a browser. 
 
-### Keywords
-
-
 ### Installation and Running
 
-Select the example and install the dependencies:
+Install the dependencies:
 ```sh
 $ npm install 
 ```
