@@ -1,7 +1,7 @@
 ## MERN STACK
 <p align="center">
     <img src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg" alt="Mern Stack"
-        >
+        height = "250">
 </p>
 
 >A stack is the combination of technologies used to create a web application. Any web application will be made using multiple technologies (frameworks, libraries, databases etc).
