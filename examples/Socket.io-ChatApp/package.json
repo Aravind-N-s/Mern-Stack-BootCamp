@@ -4,7 +4,8 @@
   "description": "Simple chat app built with node.js and websockets in socket.io.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app",
+    "start": "node app",
+    "server": "nodemon app"
     "test": "mocha --recursive || true"
   },
   "repository": {
