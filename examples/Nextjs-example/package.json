@@ -10,7 +10,7 @@
     "start": "next start -p %PORT%"
   },
   "author": "Sai kumar",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "4.17.1",
     "isomorphic-unfetch": "3.0.0",
