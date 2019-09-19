@@ -67,7 +67,8 @@ http://127.0.0.1:PORT_NUMBER
 ### Useful Links
 - **Node JS best practices**:https://github.com/goldbergyoni/nodebestpractices
 - **Node JS Testing**:https://github.com/goldbergyoni/javascript-testing-best-practices
-- **Redux**:https://github.com/reduxjs/redux
+
+### Release notes
 
 ### Plugins
 
