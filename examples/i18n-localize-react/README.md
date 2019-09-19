@@ -14,6 +14,10 @@ i18next goes beyond just providing the standard i18n features such as (plurals, 
 ```sh
 $ npm install 
 ```
+ Unit tests:
+```sh
+$ npm run test
+```
 Run the application:
 ```sh
 $ npm run start
