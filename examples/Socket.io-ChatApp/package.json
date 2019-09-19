@@ -4,8 +4,7 @@
   "description": "Simple chat app built with node.js and websockets in socket.io.",
   "main": "app.js",
   "scripts": {
-    "start": "node app",
-    "server": "nodemon app",
+    "start": "nodemon app",
     "test": "mocha --recursive || true"
   },
   "repository": {
@@ -19,10 +18,9 @@
   },
   "homepage": "https://github.com/saikumar-chilukuri/Socket.io-ChatApp",
   "dependencies": {
-    "ejs": "^2.7.1",
-    "express": "^4.17.1",
-    "socket.io": "^2.2.0",
-    "dotenv": "8.1.0"
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
   },
   "devDependencies": {
     "chai": "^4.2.0",
