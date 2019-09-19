@@ -94,6 +94,9 @@ Install the VSCode plugins which simplify the development of the applications.
 | Node Weekly | [subscribe/node ](https://nodeweekly.com/) |
 | Mobile Dev Weekly | [subscribe/dev](https://mobiledevweekly.com/) |
 
+### Crash Courses
+- [Node.js](https://medium.com/@jesterxl/introduction-bde654b5670e)
+- [Redux js]
 
 ## License
 
