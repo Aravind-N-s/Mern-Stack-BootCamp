@@ -1,0 +1,34 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "This is the bootcamp",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --recursive|| true",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Sai kumar Chilukuri",
+  "license": "ISC",
+  "devDependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^6.2.0",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^11.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express-session": "^1.16.2",
+    "log4js": "^5.1.0",
+    "should": "^13.2.3"
+  }
+}

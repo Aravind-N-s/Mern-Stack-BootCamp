@@ -1,0 +1,31 @@
+{
+  "name": "socket.io-chatapp",
+  "version": "1.0.0",
+  "description": "Simple chat app built with node.js and websockets in socket.io.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "mocha --recursive || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumar-chilukuri/Socket.io-ChatApp.git"
+  },
+  "author": "Sai kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumar-chilukuri/Socket.io-ChatApp/issues"
+  },
+  "homepage": "https://github.com/saikumar-chilukuri/Socket.io-ChatApp",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "nodemon": "^1.19.2",
+    "should": "^13.2.3"
+  }
+}
