@@ -1,0 +1,22 @@
+{
+  "name": "next.js-example",
+  "version": "1.0.0",
+  "description": "This is a example of next.js in javascript used to display the server data to the client using the browser",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start -p %PORT%"
+  },
+  "author": "Sai kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-markdown": "^4.0.8"
+  }
+}
