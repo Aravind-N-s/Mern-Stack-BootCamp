@@ -17,7 +17,7 @@ $ npm install
 ```
 Run the application:
 ```sh
-$ npm run server
+$ npm start
 ```
 Unit tests: 
 ```sh
